@@ -47,6 +47,14 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
         const challenge = challenges[randomChallengeIndex];
 
         setActiveChallenge(challenge)
+
+        new Audio('/notification.mp3').play();
+
+        if (Notification.permission === 'granted') {
+            new Notification('Novo desafio ', {
+                body: `Valendo ${challenge.amount}xp!`
+            })
+        }
     }
 
     function resetChallenge() {
