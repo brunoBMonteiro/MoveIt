@@ -17,6 +17,17 @@
 - React
 - Next.js
 
+### Para clonar 
+
+-1- vá até o repositório https://github.com/brunoBMonteiro/MoveIt
+-2- Clique em code copiei a url https://github.com/brunoBMonteiro/MoveIt.git
+-3- abra seu terminar e digite git clone + https://github.com/brunoBMonteiro/MoveIt.git
+-4- Acesse a pasta onde você clonou o arquivo e abra no terminal com "code ."
+
+### Iniciar o projeto
+
+-1- Use o comando Yarn dev
+
 <div>
    <img src="./public/WhatsApp.jpeg" width="100%">
 </div>
