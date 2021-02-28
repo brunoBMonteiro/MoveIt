@@ -31,4 +31,3 @@
 
 
 Feito por [Bruno B Monteiro](https://github.com/BrunoBMonteiro) Durante a NLW v.4 🚀. <br>
-Esse Repósitorio contém uma [MIT Licence]
